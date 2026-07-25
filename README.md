@@ -1,10 +1,3 @@
----
-rev: 0.0.1
-author: "William E. Morris"
-date: 2026-07-25 03:10:13 AM
-version: 0.0.1
----
-
 # AI Teleprompter (Name TBD)
 
 ## What is this?
